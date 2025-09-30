@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\0. Обзор языка">
+      <UniqueIdentifier>{72e7eef6-3950-41b4-a36a-5ac6e13e413b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01. Сумма чисел.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="02. Номер подъезда и этажа.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="03. Прикладная химия.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="04. Количество чисел по количеству пар.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="05. Расстояние между точками.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="06. Одинаковые цифры.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="07. Кирпич.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="08. Неравенство треугольника.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="09. Вася и работа.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="10. Ёлочка.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Математическое выражение.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="12. Тернарная операция.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Знакопеременная сумма.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Степени пятёрки.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Татьяна Ларина.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="16. Ближайшее простое число.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="17. Количество цифр в строке.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="18. Вставка символов в строку.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Удаление лишних пробелов.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="20. Поиск букв.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="21. Второй максимум.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="22. Числа Фибоначчи из отрезка.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="23. Сумма на степенях двоек.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Сумма между отрицательными.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="25. Сумма между отрицательными 2.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="26. Все вхождения в файле.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="27. Обрезка строк в файле.cpp">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tasks_0.h">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="in.txt" />
+    <Text Include="out.txt" />
+  </ItemGroup>
+</Project>
