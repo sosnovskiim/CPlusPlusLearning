@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 
-void task_0_27() {
+void task_027() {
 	std::ifstream input("in.txt");
 	std::ofstream output("out.txt");
 

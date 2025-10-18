@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-void task_0_17() {
+void task_017() {
 	std::string s;
 	getline(std::cin, s);
 

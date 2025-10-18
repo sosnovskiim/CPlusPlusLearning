@@ -1,7 +1,7 @@
 #include "tasks_0.h"
 #include <iostream>
 
-void task_0_23() {
+void task_023() {
 	int n;
 	std::cin >> n;
 

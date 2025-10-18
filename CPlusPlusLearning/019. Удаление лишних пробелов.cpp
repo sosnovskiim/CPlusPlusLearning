@@ -25,7 +25,7 @@ void remove_extra_spaces(std::string& s) {
 	s = result;
 }
 
-void task_0_19() {
+void task_019() {
 	int n;
 	std::cin >> n;
 	std::cin.get();

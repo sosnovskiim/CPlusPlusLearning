@@ -127,40 +127,46 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01. Сумма чисел.cpp" />
-    <ClCompile Include="10. Ёлочка.cpp" />
-    <ClCompile Include="02. Номер подъезда и этажа.cpp" />
-    <ClCompile Include="03. Прикладная химия.cpp" />
-    <ClCompile Include="04. Количество чисел по количеству пар.cpp" />
-    <ClCompile Include="05. Расстояние между точками.cpp" />
-    <ClCompile Include="06. Одинаковые цифры.cpp" />
-    <ClCompile Include="07. Кирпич.cpp" />
-    <ClCompile Include="08. Неравенство треугольника.cpp" />
-    <ClCompile Include="09. Вася и работа.cpp" />
-    <ClCompile Include="11. Математическое выражение.cpp" />
-    <ClCompile Include="12. Тернарная операция.cpp" />
-    <ClCompile Include="13. Знакопеременная сумма.cpp" />
-    <ClCompile Include="14. Степени пятёрки.cpp" />
-    <ClCompile Include="15. Татьяна Ларина.cpp" />
-    <ClCompile Include="16. Ближайшее простое число.cpp" />
-    <ClCompile Include="17. Количество цифр в строке.cpp" />
-    <ClCompile Include="18. Вставка символов в строку.cpp" />
-    <ClCompile Include="19. Удаление лишних пробелов.cpp" />
-    <ClCompile Include="20. Поиск букв.cpp" />
-    <ClCompile Include="21. Второй максимум.cpp" />
-    <ClCompile Include="22. Числа Фибоначчи из отрезка.cpp" />
-    <ClCompile Include="23. Сумма на степенях двоек.cpp" />
-    <ClCompile Include="24. Сумма между отрицательными.cpp" />
-    <ClCompile Include="25. Сумма между отрицательными 2.cpp" />
-    <ClCompile Include="26. Все вхождения в файле.cpp" />
-    <ClCompile Include="27. Обрезка строк в файле.cpp" />
+    <ClCompile Include="001. Сумма чисел.cpp" />
+    <ClCompile Include="010. Ёлочка.cpp" />
+    <ClCompile Include="002. Номер подъезда и этажа.cpp" />
+    <ClCompile Include="003. Прикладная химия.cpp" />
+    <ClCompile Include="004. Количество чисел по количеству пар.cpp" />
+    <ClCompile Include="005. Расстояние между точками.cpp" />
+    <ClCompile Include="006. Одинаковые цифры.cpp" />
+    <ClCompile Include="007. Кирпич.cpp" />
+    <ClCompile Include="008. Неравенство треугольника.cpp" />
+    <ClCompile Include="009. Вася и работа.cpp" />
+    <ClCompile Include="011. Математическое выражение.cpp" />
+    <ClCompile Include="012. Тернарная операция.cpp" />
+    <ClCompile Include="013. Знакопеременная сумма.cpp" />
+    <ClCompile Include="014. Степени пятёрки.cpp" />
+    <ClCompile Include="015. Татьяна Ларина.cpp" />
+    <ClCompile Include="016. Ближайшее простое число.cpp" />
+    <ClCompile Include="017. Количество цифр в строке.cpp" />
+    <ClCompile Include="018. Вставка символов в строку.cpp" />
+    <ClCompile Include="019. Удаление лишних пробелов.cpp" />
+    <ClCompile Include="020. Поиск букв.cpp" />
+    <ClCompile Include="021. Второй максимум.cpp" />
+    <ClCompile Include="022. Числа Фибоначчи из отрезка.cpp" />
+    <ClCompile Include="023. Сумма на степенях двоек.cpp" />
+    <ClCompile Include="024. Сумма между отрицательными.cpp" />
+    <ClCompile Include="025. Сумма между отрицательными 2.cpp" />
+    <ClCompile Include="026. Все вхождения в файле.cpp" />
+    <ClCompile Include="027. Обрезка строк в файле.cpp" />
+    <ClCompile Include="101. Работа с памятью.cpp" />
+    <ClCompile Include="102. Внутреннее устройство типов данных.cpp" />
+    <ClCompile Include="103. Исследование массивов.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h" />
+    <ClInclude Include="tasks_1.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />
+    <Text Include="in_1d.txt" />
+    <Text Include="in_2d.txt" />
     <Text Include="out.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

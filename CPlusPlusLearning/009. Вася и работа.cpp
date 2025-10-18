@@ -1,7 +1,7 @@
 #include "tasks_0.h"
 #include <iostream>
 
-void task_0_9() {
+void task_009() {
 	int n;
 	std::cin >> n;
 	int result = ((n % 3 == 0) != (n % 10 == 3));

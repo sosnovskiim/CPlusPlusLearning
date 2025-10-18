@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-void task_0_18() {
+void task_018() {
 	char c1, c2;
 	std::string s;
 

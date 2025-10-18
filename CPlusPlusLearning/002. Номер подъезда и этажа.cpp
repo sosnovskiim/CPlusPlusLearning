@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iostream>
 
-void task_0_2() {
+void task_002() {
 	int n, k, m;
 
 	std::cin >> n;

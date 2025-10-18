@@ -11,7 +11,7 @@ bool is_power_of_five(int a) {
 	return true;
 }
 
-void task_0_14() {
+void task_014() {
 	int n;
 	std::cin >> n;
 	int cnt = 0;

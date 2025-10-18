@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <iostream>
 
-void task_0_24() {
+void task_024() {
 	int n;
 	std::cin >> n;
 	double sum = 0;

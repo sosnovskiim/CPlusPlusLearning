@@ -1,7 +1,7 @@
 #include "tasks_0.h"
 #include <iostream>
 
-void task_0_10() {
+void task_010() {
 	std::cout << "" << std::endl;
 	std::cout << " X-=-=-=-=-=-=-=-=-X" << std::endl;
 	std::cout << " / . ` .' * ` . ,' \\" << std::endl;

@@ -2,7 +2,7 @@
 #include <iostream>
 #include <windows.h>
 
-void task_0_12() {
+void task_012() {
 	SetConsoleOutputCP(1251);
 
 	int n;

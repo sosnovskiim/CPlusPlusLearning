@@ -15,7 +15,7 @@ bool is_prime(int n) {
 	return true;
 }
 
-void task_0_16() {
+void task_016() {
 	int n;
 	std::cin >> n;
 

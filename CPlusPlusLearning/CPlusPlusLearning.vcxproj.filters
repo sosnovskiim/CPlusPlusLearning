@@ -16,100 +16,125 @@
     <Filter Include="Исходные файлы\0. Обзор языка">
       <UniqueIdentifier>{72e7eef6-3950-41b4-a36a-5ac6e13e413b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\1. Указатели">
+      <UniqueIdentifier>{dca4c75c-05ae-4ed1-9b2d-add88b052a57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01. Сумма чисел.cpp">
+    <ClCompile Include="001. Сумма чисел.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="02. Номер подъезда и этажа.cpp">
+    <ClCompile Include="002. Номер подъезда и этажа.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="03. Прикладная химия.cpp">
+    <ClCompile Include="003. Прикладная химия.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="04. Количество чисел по количеству пар.cpp">
+    <ClCompile Include="004. Количество чисел по количеству пар.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="05. Расстояние между точками.cpp">
+    <ClCompile Include="005. Расстояние между точками.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="06. Одинаковые цифры.cpp">
+    <ClCompile Include="006. Одинаковые цифры.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="07. Кирпич.cpp">
+    <ClCompile Include="007. Кирпич.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="08. Неравенство треугольника.cpp">
+    <ClCompile Include="008. Неравенство треугольника.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="09. Вася и работа.cpp">
+    <ClCompile Include="009. Вася и работа.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="10. Ёлочка.cpp">
+    <ClCompile Include="010. Ёлочка.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="11. Математическое выражение.cpp">
+    <ClCompile Include="011. Математическое выражение.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="12. Тернарная операция.cpp">
+    <ClCompile Include="012. Тернарная операция.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="13. Знакопеременная сумма.cpp">
+    <ClCompile Include="013. Знакопеременная сумма.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="14. Степени пятёрки.cpp">
+    <ClCompile Include="014. Степени пятёрки.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="15. Татьяна Ларина.cpp">
+    <ClCompile Include="015. Татьяна Ларина.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="16. Ближайшее простое число.cpp">
+    <ClCompile Include="016. Ближайшее простое число.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="17. Количество цифр в строке.cpp">
+    <ClCompile Include="017. Количество цифр в строке.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="18. Вставка символов в строку.cpp">
+    <ClCompile Include="018. Вставка символов в строку.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="19. Удаление лишних пробелов.cpp">
+    <ClCompile Include="019. Удаление лишних пробелов.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="20. Поиск букв.cpp">
+    <ClCompile Include="020. Поиск букв.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="21. Второй максимум.cpp">
+    <ClCompile Include="021. Второй максимум.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="22. Числа Фибоначчи из отрезка.cpp">
+    <ClCompile Include="022. Числа Фибоначчи из отрезка.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="23. Сумма на степенях двоек.cpp">
+    <ClCompile Include="023. Сумма на степенях двоек.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="24. Сумма между отрицательными.cpp">
+    <ClCompile Include="024. Сумма между отрицательными.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="25. Сумма между отрицательными 2.cpp">
+    <ClCompile Include="025. Сумма между отрицательными 2.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="26. Все вхождения в файле.cpp">
+    <ClCompile Include="026. Все вхождения в файле.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
     </ClCompile>
-    <ClCompile Include="27. Обрезка строк в файле.cpp">
+    <ClCompile Include="027. Обрезка строк в файле.cpp">
       <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </ClCompile>
+    <ClCompile Include="101. Работа с памятью.cpp">
+      <Filter>Исходные файлы\1. Указатели</Filter>
+    </ClCompile>
+    <ClCompile Include="102. Внутреннее устройство типов данных.cpp">
+      <Filter>Исходные файлы\1. Указатели</Filter>
+    </ClCompile>
+    <ClCompile Include="103. Исследование массивов.cpp">
+      <Filter>Исходные файлы\1. Указатели</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h">
-      <Filter>Исходные файлы\0. Обзор языка</Filter>
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="tasks_1.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="in.txt" />
-    <Text Include="out.txt" />
+    <Text Include="out.txt">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </Text>
+    <Text Include="in.txt">
+      <Filter>Исходные файлы\0. Обзор языка</Filter>
+    </Text>
+    <Text Include="in_2d.txt">
+      <Filter>Исходные файлы\1. Указатели</Filter>
+    </Text>
+    <Text Include="in_1d.txt">
+      <Filter>Исходные файлы\1. Указатели</Filter>
+    </Text>
   </ItemGroup>
 </Project>

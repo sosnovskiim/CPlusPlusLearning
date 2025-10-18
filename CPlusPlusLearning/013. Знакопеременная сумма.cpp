@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <iostream>
 
-void task_0_13() {
+void task_013() {
 	double a;
 	double sum = 0;
 	int sign = -1;

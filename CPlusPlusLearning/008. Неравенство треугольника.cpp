@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <iostream>
 
-void task_0_8() {
+void task_008() {
 	int a, b, c;
 
 	std::cin >> a >> b >> c;
