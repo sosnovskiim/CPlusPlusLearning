@@ -1,7 +1,7 @@
 #include "tasks_0.h"
 #include <iostream>
 
-bool is_power_of_five(int a) {
+static bool is_power_of_five(int a) {
 	while (a > 1) {
 		if (a % 5 != 0) {
 			return false;

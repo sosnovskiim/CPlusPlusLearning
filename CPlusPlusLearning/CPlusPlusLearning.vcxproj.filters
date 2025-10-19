@@ -19,6 +19,9 @@
     <Filter Include="Исходные файлы\1. Указатели">
       <UniqueIdentifier>{dca4c75c-05ae-4ed1-9b2d-add88b052a57}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\2. Функции">
+      <UniqueIdentifier>{5a3efa5b-7639-4202-b056-48c83d005c1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="001. Сумма чисел.cpp">
@@ -114,12 +117,48 @@
     <ClCompile Include="103. Исследование массивов.cpp">
       <Filter>Исходные файлы\1. Указатели</Filter>
     </ClCompile>
+    <ClCompile Include="201. Параметры и возврат значения.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="211. Перегрузка.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="202. Трёхзначные простые числа.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="203. Циклический сдвиг элементов.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="204. Минимумы подматриц.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="205. Удаление текста между запятыми.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="206. Удаление лишних пробелов.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="207. Сумма цифр и что-то ещё.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="208. Квадрат наибольшего периметра.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="209. Транспонирование матрицы.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
+    <ClCompile Include="210. Переворачивание матрицы.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="tasks_1.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="tasks_2.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>

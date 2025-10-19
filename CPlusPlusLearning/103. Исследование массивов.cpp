@@ -8,7 +8,7 @@
 #include <windows.h>
 
 template<typename T>
-void print_1d_array(T* a, size_t size) {
+static void print_1d_array(T* a, size_t size) {
     for (int i = 0; i < size; i++) {
         std::cout << a[i] << " ";
     }
@@ -16,14 +16,14 @@ void print_1d_array(T* a, size_t size) {
 }
 
 template<typename T>
-void print_1d_array_ptrs(T* a, size_t size) {
+static void print_1d_array_ptrs(T* a, size_t size) {
     for (int i = 0; i < size; i++) {
         std::cout << "a[" + std::to_string(i) + "]  " << a + i << "  " << a[i] << std::endl;
     }
 }
 
 template<size_t rows, size_t cols>
-void print_static_2d_array(int (&a)[rows][cols]) {
+static void print_static_2d_array(int (&a)[rows][cols]) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             std::cout << a[i][j] << " ";
@@ -33,7 +33,7 @@ void print_static_2d_array(int (&a)[rows][cols]) {
 }
 
 template<size_t rows, size_t cols>
-void print_static_2d_array_ptrs(int(&a)[rows][cols]) {
+static void print_static_2d_array_ptrs(int(&a)[rows][cols]) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             std::cout << "a[" << i << "][" << j << "]  " << &a[i][j] << "  " << a[i][j] << std::endl;
@@ -42,7 +42,7 @@ void print_static_2d_array_ptrs(int(&a)[rows][cols]) {
 }
 
 template<typename T>
-void print_dynamic_2d_array(T** a, int rows, int cols) {
+static void print_dynamic_2d_array(T** a, int rows, int cols) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             std::cout << a[i][j] << " ";
@@ -52,7 +52,7 @@ void print_dynamic_2d_array(T** a, int rows, int cols) {
 }
 
 template<typename T>
-void print_dynamic_2d_array_ptrs(T** a, int rows, int cols) {
+static void print_dynamic_2d_array_ptrs(T** a, int rows, int cols) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             std::cout << "a[" << i << "][" << j << "]  " << &a[i][j] << "  " << a[i][j] << std::endl;

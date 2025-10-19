@@ -157,11 +157,23 @@
     <ClCompile Include="101. Работа с памятью.cpp" />
     <ClCompile Include="102. Внутреннее устройство типов данных.cpp" />
     <ClCompile Include="103. Исследование массивов.cpp" />
+    <ClCompile Include="201. Параметры и возврат значения.cpp" />
+    <ClCompile Include="202. Трёхзначные простые числа.cpp" />
+    <ClCompile Include="203. Циклический сдвиг элементов.cpp" />
+    <ClCompile Include="204. Минимумы подматриц.cpp" />
+    <ClCompile Include="205. Удаление текста между запятыми.cpp" />
+    <ClCompile Include="206. Удаление лишних пробелов.cpp" />
+    <ClCompile Include="207. Сумма цифр и что-то ещё.cpp" />
+    <ClCompile Include="208. Квадрат наибольшего периметра.cpp" />
+    <ClCompile Include="209. Транспонирование матрицы.cpp" />
+    <ClCompile Include="210. Переворачивание матрицы.cpp" />
+    <ClCompile Include="211. Перегрузка.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h" />
     <ClInclude Include="tasks_1.h" />
+    <ClInclude Include="tasks_2.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />

@@ -9,13 +9,13 @@
 #include <string>
 
 template<typename T>
-void print_int_type_info(const std::string& type_name) {
+static void print_int_type_info(const std::string& type_name) {
     std::cout << std::setw(20) << type_name << std::setw(7) << sizeof(T);
     std::cout << std::numeric_limits<T>::min() << " ... " << std::numeric_limits<T>::max() << std::endl;
 }
 
 template<typename T>
-void print_float_type_info(const std::string& type_name) {
+static void print_float_type_info(const std::string& type_name) {
     std::cout << std::setw(13) << type_name << std::setw(7) << sizeof(T);
     if (typeid(T) == typeid(float)) {
         std::cout << FLT_DIG;
@@ -30,7 +30,7 @@ void print_float_type_info(const std::string& type_name) {
 }
 
 template<typename T>
-void print_binary(T value) {
+static void print_binary(T value) {
     const unsigned char* bytes = reinterpret_cast<const unsigned char*>(&value);
 
     std::cout << std::setw(8) << value;

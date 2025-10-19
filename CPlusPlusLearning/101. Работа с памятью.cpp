@@ -4,17 +4,17 @@
 #include <windows.h>
 
 template<typename T>
-void print_nullptr(const std::string& ptr_name, T* ptr) {
+static void print_nullptr(const std::string& ptr_name, T* ptr) {
     std::cout << ptr_name << "  " << ptr << std::endl;
 }
 
 template<typename T>
-void print_ptr(const std::string& ptr_name, T* ptr) {
+static void print_ptr(const std::string& ptr_name, T* ptr) {
     std::cout << ptr_name << "  " << ptr << "  " << *ptr << std::endl;
 }
 
 template<typename T>
-void print_ptr_with_memory(const std::string& ptr_name, T* ptr, size_t size) {
+static void print_ptr_with_memory(const std::string& ptr_name, T* ptr, size_t size) {
     unsigned char* bytes = reinterpret_cast<unsigned char*>(ptr);
 
     std::cout << ptr_name << "  " << ptr << "  " << *ptr << "  ";

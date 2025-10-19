@@ -4,7 +4,7 @@
 #include <iostream>
 #include <windows.h>
 
-double expr(double x, double y) {
+static double expr(double x, double y) {
 	return (1 + std::sin(std::sqrt(x + 1))) / std::cos(12 * y - 4);
 }
 

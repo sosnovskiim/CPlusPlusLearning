@@ -1,4 +1,4 @@
-#include "tasks_0.h"
+#include "tasks_2.h"
 #include <iostream>
 #include <string>
 
@@ -10,14 +10,16 @@ static void remove_extra_spaces(std::string& s) {
 		if (c != ' ') {
 			if (is_word) {
 				result += c;
-			} else {
+			}
+			else {
 				if (!result.empty()) {
 					result += ' ';
 				}
 				result += c;
 				is_word = true;
 			}
-		} else {
+		}
+		else {
 			is_word = false;
 		}
 	}
@@ -25,7 +27,7 @@ static void remove_extra_spaces(std::string& s) {
 	s = result;
 }
 
-void task_019() {
+void task_206() {
 	int n;
 	std::cin >> n;
 	std::cin.get();
@@ -33,9 +35,7 @@ void task_019() {
 	for (int i = 0; i < n; i++) {
 		std::string s;
 		getline(std::cin, s);
-
 		remove_extra_spaces(s);
-
 		std::cout << s << std::endl;
 	}
 }

@@ -1,5 +1,5 @@
-#include "tasks_1.h"
+#include "tasks_2.h"
 
 int main() {
-	task_103();
+	task_210();
 }

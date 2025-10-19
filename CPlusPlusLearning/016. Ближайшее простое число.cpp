@@ -1,7 +1,7 @@
 #include "tasks_0.h"
 #include <iostream>
 
-bool is_prime(int n) {
+static bool is_prime(int n) {
 	if (n % 2 == 0) {
 		return false;
 	}
