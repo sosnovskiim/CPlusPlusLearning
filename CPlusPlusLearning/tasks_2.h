@@ -18,4 +18,7 @@ void task_210();
 // 2.3 Перегрузка
 void task_211();
 
+// 2.4 Шаблоны
+void task_212();
+
 #endif

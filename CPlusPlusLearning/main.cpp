@@ -1,5 +1,5 @@
 #include "tasks_2.h"
 
 int main() {
-	task_210();
+	task_212();
 }

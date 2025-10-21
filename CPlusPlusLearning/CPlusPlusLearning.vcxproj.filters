@@ -150,6 +150,9 @@
     <ClCompile Include="210. Переворачивание матрицы.cpp">
       <Filter>Исходные файлы\2. Функции</Filter>
     </ClCompile>
+    <ClCompile Include="212. Шаблоны.cpp">
+      <Filter>Исходные файлы\2. Функции</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h">
@@ -174,6 +177,9 @@
     </Text>
     <Text Include="in_1d.txt">
       <Filter>Исходные файлы\1. Указатели</Filter>
+    </Text>
+    <Text Include="test_212.txt">
+      <Filter>Исходные файлы\2. Функции</Filter>
     </Text>
   </ItemGroup>
 </Project>
