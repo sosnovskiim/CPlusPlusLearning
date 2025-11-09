@@ -22,6 +22,12 @@
     <Filter Include="Исходные файлы\2. Функции">
       <UniqueIdentifier>{5a3efa5b-7639-4202-b056-48c83d005c1e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\3. Стандартная библиотека">
+      <UniqueIdentifier>{2162fff3-5c8d-466c-8cee-ece332aa413e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\4. Особенности ООП">
+      <UniqueIdentifier>{3a134cda-1fe2-4736-abaa-8f6fee56b5fd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="001. Сумма чисел.cpp">
@@ -153,6 +159,51 @@
     <ClCompile Include="212. Шаблоны.cpp">
       <Filter>Исходные файлы\2. Функции</Filter>
     </ClCompile>
+    <ClCompile Include="301. Обратная перестановка.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="302. Сортировка по убыванию.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="303. Палиндромы.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="304. Soundex.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="305. Сортировка точек.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="306. Сапёр.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="307. ArgMax в матрице.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="308. Функция Join.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="309. Транспонировать матрицу.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="310. Точки на плоскости.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="401. Миникласс.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="402. Класс.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="403. Наследование.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="405. Мелодия.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="404. Контейнеры и классы.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h">
@@ -162,6 +213,12 @@
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="tasks_2.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="tasks_3.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="tasks_4.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>

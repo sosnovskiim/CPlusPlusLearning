@@ -169,12 +169,29 @@
     <ClCompile Include="210. Переворачивание матрицы.cpp" />
     <ClCompile Include="211. Перегрузка.cpp" />
     <ClCompile Include="212. Шаблоны.cpp" />
+    <ClCompile Include="301. Обратная перестановка.cpp" />
+    <ClCompile Include="302. Сортировка по убыванию.cpp" />
+    <ClCompile Include="303. Палиндромы.cpp" />
+    <ClCompile Include="304. Soundex.cpp" />
+    <ClCompile Include="305. Сортировка точек.cpp" />
+    <ClCompile Include="306. Сапёр.cpp" />
+    <ClCompile Include="307. ArgMax в матрице.cpp" />
+    <ClCompile Include="308. Функция Join.cpp" />
+    <ClCompile Include="309. Транспонировать матрицу.cpp" />
+    <ClCompile Include="310. Точки на плоскости.cpp" />
+    <ClCompile Include="403. Наследование.cpp" />
+    <ClCompile Include="401. Миникласс.cpp" />
+    <ClCompile Include="402. Класс.cpp" />
+    <ClCompile Include="404. Контейнеры и классы.cpp" />
+    <ClCompile Include="405. Мелодия.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h" />
     <ClInclude Include="tasks_1.h" />
     <ClInclude Include="tasks_2.h" />
+    <ClInclude Include="tasks_3.h" />
+    <ClInclude Include="tasks_4.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />

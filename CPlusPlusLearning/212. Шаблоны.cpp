@@ -172,7 +172,7 @@ bool fill_from_file(TablePtr<T>& table, int rows, int cols, const std::string& f
 }
 
 template<typename T>
-void print_to_console(T** table, int rows, int cols, int width = 4) {
+void print_to_console(T** table, int rows, int cols, int width = 6) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             std::cout << std::setw(width) << table[i][j] << " ";
@@ -182,7 +182,7 @@ void print_to_console(T** table, int rows, int cols, int width = 4) {
 }
 
 template<typename T>
-void print_to_console(TablePtr<T>& table, int rows, int cols, int width = 4) {
+void print_to_console(TablePtr<T>& table, int rows, int cols, int width = 6) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             std::cout << std::setw(width) << table[i][j] << " ";
