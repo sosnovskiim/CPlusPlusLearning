@@ -196,6 +196,16 @@
     <ClCompile Include="413. JSON - Наследование.cpp" />
     <ClCompile Include="414. Monitor.cpp" />
     <ClCompile Include="415. Коварная матрица.cpp" />
+    <ClCompile Include="416. Жизнь объекта - 0.cpp" />
+    <ClCompile Include="417. Жизнь объекта - 1.cpp" />
+    <ClCompile Include="418. Жизнь объекта - 2.cpp" />
+    <ClCompile Include="419. Жизнь объекта - 3.cpp" />
+    <ClCompile Include="420. Жизнь объекта - 4.cpp" />
+    <ClCompile Include="421. Жизнь объекта - 5.cpp" />
+    <ClCompile Include="422. Жизнь объекта - 6.cpp" />
+    <ClCompile Include="423. Жизнь объекта с наследованием.cpp" />
+    <ClCompile Include="424. Снова жизнь объекта.cpp" />
+    <ClCompile Include="501. Свой вектор.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -204,6 +214,7 @@
     <ClInclude Include="tasks_2.h" />
     <ClInclude Include="tasks_3.h" />
     <ClInclude Include="tasks_4.h" />
+    <ClInclude Include="tasks_5.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />

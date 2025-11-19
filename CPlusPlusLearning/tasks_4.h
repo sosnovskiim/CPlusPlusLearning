@@ -29,5 +29,13 @@ void task_414();
 void task_415();
 
 // 4.7 ЯКонтест. «Жизнь объекта»
+void task_416();
+void task_417();
+void task_418();
+void task_419();
+void task_420();
+void task_421();
+void task_422();
+void task_424();
 
 #endif

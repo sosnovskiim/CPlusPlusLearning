@@ -28,6 +28,9 @@
     <Filter Include="Исходные файлы\4. Особенности ООП">
       <UniqueIdentifier>{3a134cda-1fe2-4736-abaa-8f6fee56b5fd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\5. Структуры данных">
+      <UniqueIdentifier>{bbb703e5-74ba-4802-9d7b-fb5b801a1f03}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="001. Сумма чисел.cpp">
@@ -237,6 +240,36 @@
     <ClCompile Include="415. Коварная матрица.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
+    <ClCompile Include="416. Жизнь объекта - 0.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="417. Жизнь объекта - 1.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="418. Жизнь объекта - 2.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="419. Жизнь объекта - 3.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="420. Жизнь объекта - 4.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="421. Жизнь объекта - 5.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="422. Жизнь объекта - 6.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="423. Жизнь объекта с наследованием.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="424. Снова жизнь объекта.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="501. Свой вектор.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks_0.h">
@@ -252,6 +285,9 @@
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="tasks_4.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="tasks_5.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
