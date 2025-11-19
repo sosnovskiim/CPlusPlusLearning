@@ -13,8 +13,9 @@ void task_306();
 void task_307();
 void task_308();
 void task_309();
+void task_310();
 
 // 3.3 Точки на плоскости
-void task_310();
+void task_311();
 
 #endif

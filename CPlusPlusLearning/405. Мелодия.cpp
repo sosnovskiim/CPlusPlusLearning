@@ -61,8 +61,7 @@ public:
         if (it != sounds.end()) {
             rotate(sounds.begin(), it, sounds.end());
             cout << "Мелодия сдвинута к первой ноте с высотой " << height << endl;
-        }
-        else {
+        } else {
             cout << "Звук с высотой " << height << " не найден" << endl;
         }
     }

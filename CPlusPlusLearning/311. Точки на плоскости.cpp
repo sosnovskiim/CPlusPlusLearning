@@ -60,7 +60,7 @@ static void print_points(const vector<Point>& points) {
     }
 }
 
-void task_310() {
+void task_311() {
     SetConsoleOutputCP(1251);
 
     vector<Point> points = {

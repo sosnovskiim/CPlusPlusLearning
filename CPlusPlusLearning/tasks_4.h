@@ -16,4 +16,18 @@ void task_404();
 // 4.5 Мелодия
 void task_405();
 
+// 4.6 ЯКонтест. Классы
+void task_406();
+void task_407();
+void task_408();
+void task_409();
+void task_410();
+void task_411();
+void task_412();
+void task_413();
+void task_414();
+void task_415();
+
+// 4.7 ЯКонтест. «Жизнь объекта»
+
 #endif

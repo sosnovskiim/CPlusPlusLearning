@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -178,12 +179,23 @@
     <ClCompile Include="307. ArgMax в матрице.cpp" />
     <ClCompile Include="308. Функция Join.cpp" />
     <ClCompile Include="309. Транспонировать матрицу.cpp" />
-    <ClCompile Include="310. Точки на плоскости.cpp" />
+    <ClCompile Include="310. Retry.cpp" />
+    <ClCompile Include="311. Точки на плоскости.cpp" />
     <ClCompile Include="403. Наследование.cpp" />
     <ClCompile Include="401. Миникласс.cpp" />
     <ClCompile Include="402. Класс.cpp" />
     <ClCompile Include="404. Контейнеры и классы.cpp" />
     <ClCompile Include="405. Мелодия.cpp" />
+    <ClCompile Include="406. Дата.cpp" />
+    <ClCompile Include="407. Дата - 2.cpp" />
+    <ClCompile Include="408. Tree.cpp" />
+    <ClCompile Include="409. Крестики-нолики.cpp" />
+    <ClCompile Include="410. Table.cpp" />
+    <ClCompile Include="411. Многочлены.cpp" />
+    <ClCompile Include="412. TimerGuard.cpp" />
+    <ClCompile Include="413. JSON - Наследование.cpp" />
+    <ClCompile Include="414. Monitor.cpp" />
+    <ClCompile Include="415. Коварная матрица.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +211,9 @@
     <Text Include="in_2d.txt" />
     <Text Include="out.txt" />
     <Text Include="test_212.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="413. JSONнаследование" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -186,7 +186,7 @@
     <ClCompile Include="309. Транспонировать матрицу.cpp">
       <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
     </ClCompile>
-    <ClCompile Include="310. Точки на плоскости.cpp">
+    <ClCompile Include="311. Точки на плоскости.cpp">
       <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
     </ClCompile>
     <ClCompile Include="401. Миникласс.cpp">
@@ -202,6 +202,39 @@
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
     <ClCompile Include="404. Контейнеры и классы.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="310. Retry.cpp">
+      <Filter>Исходные файлы\3. Стандартная библиотека</Filter>
+    </ClCompile>
+    <ClCompile Include="406. Дата.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="407. Дата - 2.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="408. Tree.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="409. Крестики-нолики.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="410. Table.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="411. Многочлены.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="412. TimerGuard.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="413. JSON - Наследование.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="414. Monitor.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="415. Коварная матрица.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
   </ItemGroup>
@@ -238,5 +271,8 @@
     <Text Include="test_212.txt">
       <Filter>Исходные файлы\2. Функции</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="413. JSONнаследование" />
   </ItemGroup>
 </Project>
