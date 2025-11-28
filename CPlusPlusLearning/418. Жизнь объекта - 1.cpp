@@ -34,7 +34,7 @@ public:
     }
 };
 
-void task_417() {
+void task_418() {
     Logger logger1;
     Logger logger2 = logger1;
 }

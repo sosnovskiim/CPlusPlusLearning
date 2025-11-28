@@ -1,5 +1,6 @@
 #include "tasks_4.h"
 #include <iostream>
+#include <vector>
 
 static class Logger {
 private:
@@ -34,9 +35,14 @@ public:
     }
 };
 
-void task_419() {
-    Logger logger1;
-    Logger logger2;
-    logger1 = logger2;
-    logger1 = std::move(logger2);
+void task_423() {
+    int n;
+    std::cin >> n;
+    std::vector<Logger*> loggers;
+    for (int i = 0; i < n; ++i) {
+        loggers.push_back(new Logger());
+    }
+    for (int i = 0; i < n; ++i) {
+        delete loggers[i];
+    }
 }

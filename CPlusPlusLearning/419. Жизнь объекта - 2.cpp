@@ -34,7 +34,7 @@ public:
     }
 };
 
-void task_418() {
+void task_419() {
     Logger logger1;
     Logger logger2 = std::move(logger1);
 }

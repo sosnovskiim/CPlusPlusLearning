@@ -218,7 +218,7 @@ public:
     }
 };
 
-void task_411() {
+void task_412() {
     std::vector<int> coeffs1 = { 1, 2, 3 };
     Polynomial<int> p1(coeffs1);
     Polynomial<int> p2(5);

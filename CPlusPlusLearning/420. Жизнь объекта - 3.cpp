@@ -34,13 +34,9 @@ public:
     }
 };
 
-int Logger::counter = 0;
-
-void task_416() {
-    {
-        Logger logger1;
-    }
-    {
-        Logger logger2;
-    }
+void task_420() {
+    Logger logger1;
+    Logger logger2;
+    logger1 = logger2;
+    logger1 = std::move(logger2);
 }

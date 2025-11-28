@@ -222,52 +222,76 @@
     <ClCompile Include="409. Крестики-нолики.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="410. Table.cpp">
+    <ClCompile Include="411. Table.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="411. Многочлены.cpp">
+    <ClCompile Include="412. Многочлены.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="412. TimerGuard.cpp">
+    <ClCompile Include="413. TimerGuard.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="413. JSON - Наследование.cpp">
+    <ClCompile Include="414. JSON - Наследование.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="414. Monitor.cpp">
+    <ClCompile Include="415. Monitor.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="415. Коварная матрица.cpp">
+    <ClCompile Include="416. Коварная матрица.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="416. Жизнь объекта - 0.cpp">
+    <ClCompile Include="417. Жизнь объекта - 0.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="417. Жизнь объекта - 1.cpp">
+    <ClCompile Include="418. Жизнь объекта - 1.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="418. Жизнь объекта - 2.cpp">
+    <ClCompile Include="419. Жизнь объекта - 2.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="419. Жизнь объекта - 3.cpp">
+    <ClCompile Include="420. Жизнь объекта - 3.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="420. Жизнь объекта - 4.cpp">
+    <ClCompile Include="421. Жизнь объекта - 4.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="421. Жизнь объекта - 5.cpp">
+    <ClCompile Include="422. Жизнь объекта - 5.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="422. Жизнь объекта - 6.cpp">
+    <ClCompile Include="423. Жизнь объекта - 6.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="423. Жизнь объекта с наследованием.cpp">
+    <ClCompile Include="424. Жизнь объекта с наследованием.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="424. Снова жизнь объекта.cpp">
+    <ClCompile Include="425. Снова жизнь объекта.cpp">
       <Filter>Исходные файлы\4. Особенности ООП</Filter>
     </ClCompile>
-    <ClCompile Include="501. Свой вектор.cpp">
+    <ClCompile Include="507. Свой вектор.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="410. Работа склада.cpp">
+      <Filter>Исходные файлы\4. Особенности ООП</Filter>
+    </ClCompile>
+    <ClCompile Include="501. Queue.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="502. Tree-2.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="503. Deque.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="504. AdvancedVector.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="505. Key-Value storage.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="506. BiMap.cpp">
+      <Filter>Исходные файлы\5. Структуры данных</Filter>
+    </ClCompile>
+    <ClCompile Include="508. Список + Очередь.cpp">
       <Filter>Исходные файлы\5. Структуры данных</Filter>
     </ClCompile>
   </ItemGroup>

@@ -389,7 +389,7 @@ public:
     }
 };
 
-void task_501() {
+void task_507() {
     SetConsoleOutputCP(1251);
     std::cout << std::boolalpha << "Тестирование класса Vector" << std::endl;
 

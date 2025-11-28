@@ -26,7 +26,7 @@ public:
     B() : A(42), a(17) {}
 };
 
-void task_424() {
+void task_425() {
     std::unique_ptr<A> ptr(new B);
     ptr->foo();
 }

@@ -100,7 +100,7 @@ std::ostream& operator << (std::ostream& out, const Matrix<T>& A) {
     return out;
 }
 
-void task_415() {
+void task_416() {
     size_t m, n;
     std::cin >> m >> n;
     Matrix<int> A(m, n);

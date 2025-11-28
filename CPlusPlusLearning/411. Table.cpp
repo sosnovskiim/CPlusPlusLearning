@@ -40,7 +40,7 @@ public:
     }
 };
 
-void task_410() {
+void task_411() {
     Table<int> table(3, 4);
 
     for (size_t i = 0; i < table.size().first; ++i) {
